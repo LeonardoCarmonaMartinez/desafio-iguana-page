@@ -1,3 +1,3 @@
 # desafio-iguana-page
 Tercer desafio
-Avanzando con css
+Uso de modelo de cajas
